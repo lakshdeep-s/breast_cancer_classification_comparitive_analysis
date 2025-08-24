@@ -1,3 +1,25 @@
 paths:
   dataset_path: "../dataset/BCD.csv"
+  feature_set_eng_path: "../features/top20_eng_feats_rf.pkl"
+  feature_set_raw_path: "../features/top20_raw_feats_rf.pkl"
+
+  X_train: "../dataset/X_train.csv"
+  X_val: "../dataset/X_val.csv"
+  X_test: "../dataset/X_test.csv"
+  y_train: "../dataset/y_train.csv"
+  y_val: "../dataset/y_val.csv"
+  y_test: "../dataset/y_test.csv"
   
+  X_train_eng: "../dataset/X_train_eng.csv"
+  X_val_eng: "../dataset/X_val_eng.csv"
+  X_test_eng: "../dataset/X_test_eng.csv"
+  y_train_eng: "../dataset/y_train_eng.csv"
+  y_val_eng: "../dataset/y_val_eng.csv"
+  y_test_eng: "../dataset/y_test_eng.csv"
+
+  X_train_raw: "../dataset/X_train_raw.csv"
+  X_val_raw: "../dataset/X_val_raw.csv"
+  X_test_raw: "../dataset/X_test_raw.csv"
+  y_train_raw: "../dataset/y_train_raw.csv"
+  y_val_raw: "../dataset/y_val_raw.csv"
+  y_test_raw: "../dataset/y_test_raw.csv"
