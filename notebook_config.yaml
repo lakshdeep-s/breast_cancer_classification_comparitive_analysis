@@ -23,3 +23,9 @@ paths:
   y_train_raw: "../dataset/y_train_raw.csv"
   y_val_raw: "../dataset/y_val_raw.csv"
   y_test_raw: "../dataset/y_test_raw.csv"
+
+nn_config:
+  batch_size: 32
+  num_workers: 0
+  pin_memory: True
+  persistent_workers: False
